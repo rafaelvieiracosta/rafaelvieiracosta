@@ -1,5 +1,6 @@
 ### Editando README... Olá! Eu sou o Rafael 👋 
 ---
+[![Instagram Badge](https://img.shields.io/badge/-@rafaelvieiira-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelvieiirra/)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

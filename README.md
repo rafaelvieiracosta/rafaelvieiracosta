@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373746D&size=25&vCenter=true&lines=Ol%C3%A1%2C+eu+sou+o+Rafael)](https://git.io/typing-svg)
+
 <!--
 **rafaelvieiracosta/rafaelvieiracosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

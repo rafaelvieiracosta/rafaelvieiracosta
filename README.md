@@ -22,6 +22,8 @@ __Estudando no momento:__
 </div>
 
 <!--
+
+Trabalho apenas com códigos e formas. Palavras machucam e causam terriveis feridas, temos a lbiberdade de falar mas não o direito de ferir com palavras
 <div style="display: inline_block">
 <img align="center" alt=icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt=icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">

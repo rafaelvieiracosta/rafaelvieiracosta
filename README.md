@@ -24,7 +24,9 @@ __Estudando no momento:__
 <!--
 
 Sou estudante de graduação em Análise e Desenvolvimento de Sistemas
-Realizei um curso técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Prof. Carmine Biagio Tundisi, onde tive inúmeras atividades envolvendo diversas ferramentas como: C#, HTML, CSS, Java, JavaScript, MySQL, PHP. Como TCC desenvolvi, juntamente ao meu grupo, um software para gestão do grêmio estudantil local, com plataformas para o aluno e para a administração do grêmio
+Realizei um curso técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Prof. Carmine Biagio Tundisi, onde tive inúmeras atividades envolvendo diversas
+tenho 0conhecimento em: 
+ferramentas como: C#, HTML, CSS, Java, JavaScript, MySQL, PHP. Como TCC desenvolvi, juntamente ao meu grupo, um software para gestão do grêmio estudantil local, com plataformas para o aluno e para a administração do grêmio
 
 Trabalho apenas com códigos e formas. Palavras machucam e causam terriveis feridas, temos a lbiberdade de falar mas não o direito de ferir com palavras
 <div style="display: inline_block">

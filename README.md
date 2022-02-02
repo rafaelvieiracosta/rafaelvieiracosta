@@ -1,16 +1,18 @@
-### Editando README... Olá! 👋 
+<h2 align="center"> Editando README... Olá! 👋 </h2>
+
 [![Instagram Badge](https://img.shields.io/badge/-@rafaelvieiira-1ca0f1?style=flat-square&labelColor=555555&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelvieiirra/&color=555555)](https://www.instagram.com/rafaelvieiirra/) [![Linkedin Badge](https://img.shields.io/badge/-rafaelvieiracosta-1ca0f1?style=flat-square&labelColor=555555&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelvieiracosta/&color=555555)](https://www.linkedin.com/in/rafaelvieiracosta/) [![Outlook Badge Badge](https://img.shields.io/badge/-rvc.vieira@outlook.com-1ca0f1?style=flat-square&labelColor=555555&logo=microsoftoutlook&logoColor=white&&color=555555)](mailto:rvc.vieira@outlook.com) 
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-__Estudando no momento:__
+__Linguagens & Ferramentas:__
 <div style="display: inline_block">
   <img align="center" alt=icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt=icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt=icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt=icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt=icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt=icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt=icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+   <img align="center" alt=icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 ---
@@ -18,7 +20,7 @@ __Estudando no momento:__
 <div align="center">
   <a href="https://github.com/rafaelvieiracosta">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelvieiracosta&theme=github_dark&border_radius=15px&hide=true&include_all_comits=true&count_private=true&show_icons=true&icon_color=555555"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiracosta&theme=github_dark&border_radius=15px&layout=default&hide=true"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiracosta&theme=github_dark&border_radius=15px&layout=compact&hide=true"/> 
 </div>
 
 <!--

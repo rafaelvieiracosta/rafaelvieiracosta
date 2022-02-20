@@ -1,4 +1,4 @@
-[![readme](components/readme-main.svg)](https://github.com/rafaelvieiracosta)
+[![readme](components/readme-mn.svg)](https://github.com/rafaelvieiracosta)
 
 [![link instagram](components/instagram.svg)](https://www.instagram.com/rafaelvieiirra/)
 [![link linkedin](components/linkedin.svg)](https://www.linkedin.com/in/rafaelvieiracosta/)

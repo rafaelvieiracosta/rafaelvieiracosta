@@ -1,0 +1,21 @@
+{
+  "id": "javascript",
+  "nome": "JavaScript",
+  "totalAulas": 120,
+  "horas": 34,
+  "descricao": "Esse é um curso completo de JavaScript, você irá prender tudo sobre variáveis, objetos, arrays e funções.",
+  "aulas": [
+    {
+      "id": "variaveis",
+      "nome": "Variáveis e Constantes"
+    },
+    {
+      "id": "funcoes",
+      "nome": "Funções e Métodos"
+    },
+    {
+      "id": "objetos",
+      "nome": "Objetos e Arrays"
+    }
+  ]
+}

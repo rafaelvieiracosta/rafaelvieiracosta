@@ -1,0 +1,21 @@
+{
+  "id": "html-e-css",
+  "nome": "HTML e CSS",
+  "totalAulas": 80,
+  "horas": 22,
+  "descricao": "Nesse curso você irá aprender como utilizar tags de HTML para estruturar o conteúdo da sua página. E também como estiliza-las com CSS.",
+  "aulas": [
+    {
+      "id": "html",
+      "nome": "HTML e Tags"
+    },
+    {
+      "id": "css",
+      "nome": "CSS e Propriedades"
+    },
+    {
+      "id": "flexbox",
+      "nome": "CSS Flexbox"
+    }
+  ]
+}

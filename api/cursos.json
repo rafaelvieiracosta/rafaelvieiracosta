@@ -1,0 +1,28 @@
+{
+  "id": "cursos",
+  "titulo": "Cursos",
+  "descricao": "Inscreva-se em um dos nossos planos e obtenha acesso completo a todos os nossos cursos.",
+  "cursos": [
+    {
+      "id": "javascript",
+      "nome": "JavaScript",
+      "totalAulas": 120,
+      "horas": 34,
+      "descricao": "Esse é um curso completo de JavaScript, você irá prender tudo sobre variáveis, objetos, arrays e funções."
+    },
+    {
+      "id": "html-e-css",
+      "nome": "HTML e CSS",
+      "totalAulas": 80,
+      "horas": 22,
+      "descricao": "Nesse curso você irá aprender como utilizar tags de HTML para estruturar o conteúdo da sua página. E também como estiliza-las com CSS."
+    },
+    {
+      "id": "ux-design",
+      "nome": "UX Design",
+      "totalAulas": 70,
+      "horas": 18,
+      "descricao": "Aprenda todos os fundamentos de UX Design nesse curso. Aprenda como pesquisar, analisar e desenvolver um projeto com foco na experiência do usuário."
+    }
+  ]
+}
